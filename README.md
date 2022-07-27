@@ -13,3 +13,6 @@ The process of the system, was carried in Pycharm platform. The process went for
 
 ![cap3](https://user-images.githubusercontent.com/40090186/181361505-321ea582-3808-4861-b4ed-0d67d77d5c46.PNG)
 
+At the end of this process and after selecting the best service composition in this generation, we shows up the indicators selected for supplying the farm with water in different ways. The blue colors are the open gates (1) while the yellow ones are the closed gates (0).
+
+![dsdas](https://user-images.githubusercontent.com/40090186/181362092-10b9d7ee-f7b7-4107-88da-78c33dc6e119.PNG)
