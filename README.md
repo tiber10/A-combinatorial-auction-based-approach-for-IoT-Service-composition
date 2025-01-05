@@ -1,5 +1,5 @@
 # A-combinatorial-auction-based-approach-for-IoT-Service-composition
-This project transforms the service composition problem into an optimization problem. Moreover, in this project we also propose a combinatorial auction approach (the Or bids method) in order to provide the best services selection to construct the service composition.
+This project transforms the service composition problem into an optimization problem. Moreover, in this project we propose a combinatorial auction approach (the Or bids method) in order to provide the best services selection to construct the service composition.
 The project in under review. Once its published, this repo will be updated
 
 ## Results and Discussion
